@@ -1,0 +1,10 @@
+{
+    "1.94.37.1:50553 [SSH]": {
+        "local_port": "50553",
+        "remote_host": "1.94.37.1",
+        "remote_port": "50553",
+        "ssh_user": "root",
+        "ssh_password": "gAAAAABnNsHFUWMsUle_8NHIrlJ0CvEcpNnZQAsbXyKEWS2ZLTyUAYLI57fdnvrMWKLtRYcGiVz8UVnwmV149H9CuPoJcrOkKQ==",
+        "protocol": "SSH"
+    }
+}

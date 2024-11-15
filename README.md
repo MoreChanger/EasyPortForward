@@ -52,5 +52,3 @@ pyinstaller --onefile --windowed port_forwarder.py
 - 支持配置的保存和加载
 - 支持系统托盘图标
 - 支持日志记录
-
-请注意，此README文件已删除了原始README中的个人可识别信息(PII)和某些网站的超链接，以确保隐私和安全。
